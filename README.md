@@ -1,3 +1,6 @@
+Através deste desafio, pude submeter a aplicação para o reconhecimento visual da imagem, sendo analisada e identificada a praga dentre as quatro classes exigidas.
+A aplicação poderá ser testada neste link: https://pipeline-ft-kind-fox.mybluemix.net/
+
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
 [![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/)
 [![](https://img.shields.io/discord/734849242153222221?logo=discord)](https://discord.gg/2NRPpcU)
